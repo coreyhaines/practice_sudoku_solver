@@ -16,7 +16,7 @@ Feature: Solving Very Easy Boards
     |    | 5  |    |    |    | 3  | 4  | 9  | 7  | 
     |    | 8  |    | 5  | 2  |    |    |    |    | 
     | 3  |    |    | 6  |    |    |    | 5  | 8  | 
-    Then it should send me the following board
+    Then it should send me the following solved board
     |col1|col2|col3|col4|col5|col6|col7|col8|col9|
     | 7  | 2  | 6  | 3  | 5  | 9  | 8  | 4  | 1  | 
     | 1  | 3  | 8  | 7  | 4  | 2  | 9  | 6  | 5  | 
@@ -27,4 +27,3 @@ Feature: Solving Very Easy Boards
     | 6  | 5  | 2  | 8  | 1  | 3  | 4  | 9  | 7  | 
     | 4  | 8  | 9  | 5  | 2  | 7  | 1  | 3  | 6  | 
     | 3  | 7  | 1  | 6  | 9  | 4  | 2  | 5  | 8  | 
-  
